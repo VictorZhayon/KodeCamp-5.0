@@ -1,0 +1,14 @@
+[
+    {
+        "id": "4575a7d5-4949-4d6d-8287-75970bfb3c94",
+        "sender": "Test",
+        "recipient": "Victor",
+        "status": "In Transit"
+    },
+    {
+        "id": "94be2825-644e-4c88-8b92-fdb90372f233",
+        "sender": "Victor",
+        "recipient": "Test",
+        "status": "Delivered"
+    }
+]
